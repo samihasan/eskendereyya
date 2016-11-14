@@ -355,13 +355,19 @@ They're optional to use but recommended nevertheless due to the offered benefits
 This is the MSA verse of the song [Ojos Así](https://www.youtube.com/watch?v=5BzkbSq7pww) by Shakira: 
 
 رب السماء، فيك الرجاء
+
 في عينيها أرى الحياة
+
 آتي إليك من هذا الكون
+
 أرجوك ربي لبي ندائي
 
 **Eskéndereyya:**
 
 Rȃbbi assamáï, fik arrajáï
+
 fi ăynayha ära alħayáti
+
 äati ïlayha men haża alkawni
+
 ärjúka rȃbbi labbi nedáï
