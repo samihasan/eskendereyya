@@ -44,4 +44,4 @@ Believe it or not, this system is also useful to native Arabic speakers to perfe
 
 ## Guide
 
-Head to the [guide](#/blob/master/README.md) for the full primer on Eskéndereyya. 
+Head to the [guide](https://github.com/samihasan/eskendereyya/blob/master/GUIDE.md) for the full primer on Eskéndereyya. 
